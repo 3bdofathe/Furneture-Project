@@ -1,0 +1,112 @@
+body{
+    background-color: rgb(240, 239, 239);
+    margin: 0px;
+    padding: 0px;
+}
+ ul li{
+    display: inline-block;
+    
+}
+ul{
+    background-color:rgb(247, 239, 239);
+    height: 90px;
+    margin-top: 0px;
+}
+.st{
+    margin-right: 500px;
+    font-size: 20px;
+}
+ul li a{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 900;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+.mod{
+    margin-top: 200px;
+    margin-left: 150px;
+    line-height: 50px;
+    font-size: 40px;
+    margin-bottom: 100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.img1{
+    margin-left: 150px;
+    border-radius: 15px;
+}
+.work{
+    margin-top: 150px;
+    margin-left: 150px;
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.work1{
+    margin-left: 150px;
+    margin-bottom: 100px;
+    font-size: 20px;
+}
+.contan1{
+    float: left;
+}
+.contan1 img{
+    border-radius: 30px;
+}
+.cont1{
+    float: left;
+    margin-left: 20px;
+}
+.cont1 h1{
+text-align: center;
+font-size: 25px;
+opacity: .8;
+}
+.foot{
+    margin-top: 100px;
+    height: 500px;
+    background-color: rgb(26, 25, 25);
+    color: white;
+    padding-top: 70px;
+}
+.con{
+    margin-left: 150px;
+    font-size: 45px;
+    font-weight: 900;
+}
+.con1{
+    margin-left: 150px;
+    font-size: 25px;
+    margin-bottom: 60px;
+}
+.con3{
+    font-size: 20px;
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    padding: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-left: 150px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+.con4{
+    margin-left: 150px;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 80px;
+}
+.con5{
+    font-size: 30px;
+    color: white;
+}
+.top{
+    text-decoration: none;
+    color: black;
+    background-color: wheat;
+    padding: 15px;
+    font-size: 25px;
+    font-weight: 900;
+    border-radius: 20px;
+    margin-left: 1050px;
+}
